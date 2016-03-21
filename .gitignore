@@ -34,3 +34,9 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+## crawled_html_files
+/crawled_html_files/
+
+## output_files
+/output_files/
